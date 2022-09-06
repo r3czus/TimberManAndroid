@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true"
+    >
+    <item android:drawable="@drawable/animacja4" android:duration="1"/>
+    <item android:drawable="@drawable/kl4" android:duration="40"/>
+    <item android:drawable="@drawable/kl6" android:duration="40"/>
+    <item android:drawable="@drawable/kl8" android:duration="40"/>
+    <item android:drawable="@drawable/kl10" android:duration="40"/>
+    <item android:drawable="@drawable/kl12" android:duration="40"/>
+    <item android:drawable="@drawable/kl14" android:duration="40"/>
+    <item android:drawable="@drawable/kl16" android:duration="40"/>
+    <item android:drawable="@drawable/animacja4" android:duration="1"/>
+</animation-list>

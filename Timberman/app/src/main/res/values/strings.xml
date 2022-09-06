@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Timberman</string>
+    <string name="info_string">Unikaj patykow </string>
+    <string name="shop_string">Sklep jest nie dostepny</string>
+    <string name="pause_string">"gra jest zatrzymana xd "</string>
+    <string name="_0">0</string>
+
+</resources>
